@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "doooreyn.emoji-snippet-vscode"
+  ],
+  "unwantedRecommendations": []
+}
